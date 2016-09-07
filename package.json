@@ -1,0 +1,25 @@
+{
+  "name": "twitter-notes",
+  "version": "1.0.0",
+  "description": "this app will post notes on your friend's timelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasontvu/twitter-notes.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Jason T. Vu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasontvu/twitter-notes/issues"
+  },
+  "homepage": "https://github.com/jasontvu/twitter-notes#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
